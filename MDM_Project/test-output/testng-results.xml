@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="849133" started-at="2020-04-24T11:21:05Z" finished-at="2020-04-24T11:35:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="849133" started-at="2020-04-24T11:21:05Z" finished-at="2020-04-24T11:35:14Z">
+      <class name="com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest">
+        <test-method status="PASS" signature="OR_Log_Extent_Initialisation()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="OR_Log_Extent_Initialisation" is-config="true" duration-ms="235" started-at="2020-04-24T16:51:05Z" finished-at="2020-04-24T16:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OR_Log_Extent_Initialisation -->
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="appLaunch" is-config="true" duration-ms="27560" started-at="2020-04-24T16:51:05Z" finished-at="2020-04-24T16:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="hybridTestAutomation(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="hybridTestAutomation" duration-ms="50747" started-at="2020-04-24T16:51:33Z" data-provider="executableTestID_provider" finished-at="2020-04-24T16:52:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[GenerateAndVerifyRateCardForExistingCustomer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ContractModule]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[creditcontract]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hybridTestAutomation -->
+        <test-method status="PASS" signature="closeOpenWindow()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="closeOpenWindow" is-config="true" duration-ms="2196" started-at="2020-04-24T16:52:24Z" finished-at="2020-04-24T16:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOpenWindow -->
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="appLaunch" is-config="true" duration-ms="27306" started-at="2020-04-24T16:52:26Z" finished-at="2020-04-24T16:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="hybridTestAutomation(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="hybridTestAutomation" duration-ms="241326" started-at="2020-04-24T16:52:53Z" data-provider="executableTestID_provider" finished-at="2020-04-24T16:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CreateSFXcodeForExistingCustomerAndVerify]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ContractModule]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[creditcontract]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hybridTestAutomation -->
+        <test-method status="PASS" signature="closeOpenWindow()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="closeOpenWindow" is-config="true" duration-ms="225" started-at="2020-04-24T16:56:54Z" finished-at="2020-04-24T16:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOpenWindow -->
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="appLaunch" is-config="true" duration-ms="49584" started-at="2020-04-24T16:56:55Z" finished-at="2020-04-24T16:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="hybridTestAutomation(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="hybridTestAutomation" duration-ms="369080" started-at="2020-04-24T16:57:44Z" data-provider="executableTestID_provider" finished-at="2020-04-24T17:03:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CreateCustomerwithSFXcodeAndVerify]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ContractModule]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[creditcontract]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hybridTestAutomation -->
+        <test-method status="PASS" signature="closeOpenWindow()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="closeOpenWindow" is-config="true" duration-ms="639" started-at="2020-04-24T17:03:53Z" finished-at="2020-04-24T17:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOpenWindow -->
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="appLaunch" is-config="true" duration-ms="35968" started-at="2020-04-24T17:03:54Z" finished-at="2020-04-24T17:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="hybridTestAutomation(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="hybridTestAutomation" duration-ms="43632" started-at="2020-04-24T17:04:30Z" data-provider="executableTestID_provider" finished-at="2020-04-24T17:05:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VerifySFXcodeOnAllPages]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ContractModule]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[creditcontract]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hybridTestAutomation -->
+        <test-method status="PASS" signature="closeOpenWindow()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="closeOpenWindow" is-config="true" duration-ms="185" started-at="2020-04-24T17:05:14Z" finished-at="2020-04-24T17:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOpenWindow -->
+        <test-method status="PASS" signature="closeOpenWindows()[pri:0, instance:com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest@2aece37d]" name="closeOpenWindows" is-config="true" duration-ms="40" started-at="2020-04-24T17:05:14Z" finished-at="2020-04-24T17:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeOpenWindows -->
+      </class> <!-- com.safexp.MDM.automation.testcases.Usermanagement.UsercreationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

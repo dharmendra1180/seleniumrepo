@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="none">
+  <listeners>
+    <listener class-name="com.safexpress.MDM.API_Automation.managerClass.TestListener"/>
+  </listeners>
+  <test name="Test1(failed)" parallel="none" preserve-order="true">
+    <classes>
+      <class name="com.safexpress.MDM.API_Automation.testcases.APITestUsermanagement">
+        <methods>
+          <include name="hybridTestAutomation" invocation-numbers="1 3"/>
+          <include name="Init"/>
+          <include name="zipReport"/>
+        </methods>
+      </class> <!-- com.safexpress.MDM.API_Automation.testcases.APITestUsermanagement -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

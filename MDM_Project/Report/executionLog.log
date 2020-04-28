@@ -1,0 +1,186 @@
+2020-04-24 16:51:05 INFO  UtilityClass:69 - in beforetest
+2020-04-24 16:51:33 INFO  CreditContractHomePage:56 - customername is being entered to search
+2020-04-24 16:51:37 INFO  CreditContractHomePage:58 - search the name in customer table
+2020-04-24 16:51:39 INFO  CreditContractHomePage:62 - name found and is being clicked 
+2020-04-24 16:52:24 INFO  UsercreationTest:108 - after method
+2020-04-24 16:52:53 INFO  CreditContractHomePage:56 - customername is being entered to search
+2020-04-24 16:52:57 INFO  CreditContractHomePage:58 - search the name in customer table
+2020-04-24 16:52:59 INFO  CreditContractHomePage:62 - name found and is being clicked 
+2020-04-24 16:54:33 INFO  BillingLandingPage:18 - BillingLandingPage:submitBillingPage method
+2020-04-24 16:54:33 INFO  BillingLandingPage:192 - clicking on billing level option
+2020-04-24 16:54:36 INFO  BillingLandingPage:198 - Alias name is being entered
+2020-04-24 16:54:40 INFO  BillingLandingPage:204 - clicking on billing sublevel option
+2020-04-24 16:54:40 INFO  BillingLandingPage:210 - clicking on billing subType dropdown
+2020-04-24 16:54:40 INFO  BillingLandingPage:212 - list of billing subtype is being fetched
+2020-04-24 16:54:40 INFO  BillingLandingPage:215 - search of subtype in the list is being done 
+2020-04-24 16:54:40 INFO  BillingLandingPage:222 - billing subtype matched with expected
+2020-04-24 16:54:40 INFO  BillingLandingPage:226 - billing subtype is being clicked 
+2020-04-24 16:54:43 INFO  BillingLandingPage:242 - providing value to subtype inputbox
+2020-04-24 16:54:46 INFO  BillingLandingPage:247 - clicking on billing details link
+2020-04-24 16:54:47 INFO  BillingLandingPage:252 - clicking cycle option
+2020-04-24 16:54:47 INFO  BillingLandingPage:254 - list of billing cycle is being fetched
+2020-04-24 16:54:47 INFO  BillingLandingPage:257 - looking expected billing cycle into list
+2020-04-24 16:54:47 INFO  BillingLandingPage:263 - expexted billing cycle found and is being clicked
+2020-04-24 16:54:50 INFO  BillingLandingPage:282 - billing paymentterm is being clicked
+2020-04-24 16:54:50 INFO  BillingLandingPage:284 - list of billing payment term is being fetched
+2020-04-24 16:54:50 INFO  BillingLandingPage:287 - looking expected billing payment term into list 
+2020-04-24 16:54:51 INFO  BillingLandingPage:293 - Expected billing payment term is found and is being clicked
+2020-04-24 16:54:54 INFO  BillingLandingPage:313 - providing value to BillingTurnOverAmt input field
+2020-04-24 16:54:57 INFO  BillingLandingPage:319 - clicking on BillingTodBasedOn dropdown
+2020-04-24 16:54:57 INFO  BillingLandingPage:321 - list of BillingTodBasedOnOption is being fetched
+2020-04-24 16:54:57 INFO  BillingLandingPage:324 - looking expected value into list
+2020-04-24 16:54:57 INFO  BillingLandingPage:330 - Expected is found and is being clicked
+2020-04-24 16:55:01 INFO  BillingLandingPage:349 - clicking on billing format dropdown
+2020-04-24 16:55:01 INFO  BillingLandingPage:351 - list of billing format is being fetched
+2020-04-24 16:55:01 INFO  BillingLandingPage:354 - looking expected billing format into list
+2020-04-24 16:55:01 INFO  BillingLandingPage:361 - found expected billing format and is being clicked
+2020-04-24 16:55:04 INFO  BillingLandingPage:379 - clicking billingby dropdown
+2020-04-24 16:55:04 INFO  BillingLandingPage:381 - list of billingby options is being  fetched
+2020-04-24 16:55:04 INFO  BillingLandingPage:384 - expected billingby option is being searched in list
+2020-04-24 16:55:04 INFO  BillingLandingPage:396 - expected option is not matched
+2020-04-24 16:55:04 INFO  BillingLandingPage:396 - expected option is not matched
+2020-04-24 16:55:04 INFO  BillingLandingPage:390 - found expected option and is being clicked
+2020-04-24 16:55:08 INFO  BillingLandingPage:35 - setting bill assign branch
+2020-04-24 16:55:15 INFO  BillingLandingPage:50 - setting submission branch
+2020-04-24 16:55:19 INFO  BillingLandingPage:59 - setting collection branch
+2020-04-24 16:55:24 INFO  BillingLandingPage:120 - Providing GSTIN value
+2020-04-24 16:55:31 INFO  BillingLandingPage:122 - providing minimum bill amount
+2020-04-24 16:55:34 INFO  BillingLandingPage:124 - providing TAN
+2020-04-24 16:55:40 INFO  BillingLandingPage:126 - providing e-bill emailid
+2020-04-24 16:55:45 INFO  BillingLandingPage:130 - communication emailid
+2020-04-24 16:55:50 INFO  BillingLandingPage:159 - clicking on billing GBcategory dropdown
+2020-04-24 16:55:50 INFO  BillingLandingPage:161 - list of GBcategory is being fetched
+2020-04-24 16:55:50 INFO  BillingLandingPage:164 - Expected GBcategory is searched in list
+2020-04-24 16:55:50 INFO  BillingLandingPage:171 - found expected GBcategory and is being clicked
+2020-04-24 16:55:50 INFO  BillingLandingPage:143 - BillingLandingPage:setBillingAddress method
+2020-04-24 16:55:50 INFO  BillingLandingPage:144 - clicking on plus to add addresses
+2020-04-24 16:55:51 INFO  BillingLandingPage:146 - providing first address
+2020-04-24 16:55:54 INFO  BillingLandingPage:148 - providing second address
+2020-04-24 16:55:57 INFO  BillingLandingPage:150 - providing third address
+2020-04-24 16:56:01 INFO  BillingLandingPage:152 - clicking on save button
+2020-04-24 16:56:01 INFO  BillingLandingPage:413 - clicking on Next button of billing page
+2020-04-24 16:56:54 INFO  UsercreationTest:108 - after method
+2020-04-24 16:57:44 INFO  CreditContractHomePage:21 - clicking MSA button
+2020-04-24 16:57:55 INFO  New_MSA_LandingPage:15 - New_MSA_LandingPage:createNewMSA method
+2020-04-24 16:57:55 INFO  New_MSA_LandingPage:45 - customer name is being entered
+2020-04-24 16:57:59 INFO  New_MSA_LandingPage:76 - mobile number is being entered
+2020-04-24 16:58:03 INFO  New_MSA_LandingPage:70 - Registered address is being entered
+2020-04-24 16:58:06 INFO  New_MSA_LandingPage:82 - landline number is being entered
+2020-04-24 16:58:10 INFO  New_MSA_LandingPage:51 - clicking on pincode input
+2020-04-24 16:58:10 INFO  New_MSA_LandingPage:53 - selecting state
+2020-04-24 16:58:16 INFO  New_MSA_LandingPage:55 - selecting city
+2020-04-24 16:58:21 INFO  New_MSA_LandingPage:57 - selecting pincode
+2020-04-24 16:58:22 INFO  New_MSA_LandingPage:59 - clicking on submit button
+2020-04-24 16:58:22 INFO  New_MSA_LandingPage:92 - 
+2020-04-24 16:58:25 INFO  New_MSA_LandingPage:97 - pan number is being entered
+2020-04-24 16:58:29 INFO  New_MSA_LandingPage:103 - GSTIN is being entered
+2020-04-24 16:58:33 INFO  New_MSA_LandingPage:108 - sla is being entered
+2020-04-24 16:58:36 INFO  New_MSA_LandingPage:121 - clicking on Account type dropdown
+2020-04-24 16:58:36 INFO  New_MSA_LandingPage:123 - list of account type is being fetched
+2020-04-24 16:58:36 INFO  New_MSA_LandingPage:126 - expected account is being searched
+2020-04-24 16:58:36 INFO  New_MSA_LandingPage:133 - expected account type is found and is being clicked
+2020-04-24 16:58:36 INFO  New_MSA_LandingPage:141 - clicking on segment dropdown
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:148 - segment options list is being fetched
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:151 - expected segment is being searched in list
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:161 - expected segment is not matched
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:161 - expected segment is not matched
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:161 - expected segment is not matched
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:158 - expected segment is found and is being clicked
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:167 - clicking on subsegment dropdown
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:172 - list of subsegment is being fetched
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:175 - subsegment is being searched in list
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:182 - subsegment found and is being clicked
+2020-04-24 16:58:37 INFO  New_MSA_LandingPage:191 - baselocation is being entered
+2020-04-24 16:58:43 INFO  New_MSA_LandingPage:114 - plusicon is being clicked
+2020-04-24 16:58:43 INFO  Consigner_ConsigneePage:26 - Consigner_ConsigneePage:createNewConsignerConsignee method
+2020-04-24 16:58:43 INFO  Consigner_ConsigneePage:57 - setting consigner/consignee name
+2020-04-24 16:58:50 INFO  Consigner_ConsigneePage:68 - setting GST value
+2020-04-24 16:58:54 INFO  Consigner_ConsigneePage:73 - setting TAN value
+2020-04-24 16:58:58 INFO  Consigner_ConsigneePage:78 - setting PAN value
+2020-04-24 16:59:02 INFO  Consigner_ConsigneePage:83 - clicking on pincode field
+2020-04-24 16:59:02 INFO  Consigner_ConsigneePage:85 - selecting state
+2020-04-24 16:59:07 INFO  Consigner_ConsigneePage:87 - selecting city
+2020-04-24 16:59:12 INFO  Consigner_ConsigneePage:89 - selecting pincode
+2020-04-24 16:59:13 INFO  Consigner_ConsigneePage:91 - clicking on submit button
+2020-04-24 16:59:13 INFO  Consigner_ConsigneePage:97 - setting dealer code
+2020-04-24 16:59:17 INFO  Consigner_ConsigneePage:102 - setting mobile number
+2020-04-24 16:59:20 INFO  Consigner_ConsigneePage:107 - clicking on consign type dropdown
+2020-04-24 16:59:20 INFO  Consigner_ConsigneePage:110 - list of consign type is being fetched
+2020-04-24 16:59:20 INFO  Consigner_ConsigneePage:113 - expected consign type is being searched
+2020-04-24 16:59:21 INFO  Consigner_ConsigneePage:120 - found expected consign type and is being clicked
+2020-04-24 16:59:21 INFO  Consigner_ConsigneePage:39 - Consigner_ConsigneePage:setAddress method
+2020-04-24 16:59:21 INFO  Consigner_ConsigneePage:40 - setting first address
+2020-04-24 16:59:25 INFO  Consigner_ConsigneePage:42 - setting second address
+2020-04-24 16:59:29 INFO  Consigner_ConsigneePage:44 - Consigner_Consignee third address
+2020-04-24 16:59:33 INFO  Consigner_ConsigneePage:21 - clicking on Plusicon
+2020-04-24 16:59:36 INFO  Consigner_ConsigneePage:16 - clicking on save button
+2020-04-24 16:59:36 INFO  New_MSA_LandingPage:34 - clicking on consigner/consignee division
+2020-04-24 16:59:40 INFO  New_MSA_LandingPage:231 - clicking on Next button
+2020-04-24 16:59:50 INFO  CreditContractHomePage:56 - customername is being entered to search
+2020-04-24 16:59:54 INFO  CreditContractHomePage:58 - search the name in customer table
+2020-04-24 16:59:56 INFO  CreditContractHomePage:62 - name found and is being clicked 
+2020-04-24 17:01:47 INFO  BillingLandingPage:18 - BillingLandingPage:submitBillingPage method
+2020-04-24 17:01:47 INFO  BillingLandingPage:192 - clicking on billing level option
+2020-04-24 17:01:50 INFO  BillingLandingPage:198 - Alias name is being entered
+2020-04-24 17:01:53 INFO  BillingLandingPage:204 - clicking on billing sublevel option
+2020-04-24 17:01:53 INFO  BillingLandingPage:210 - clicking on billing subType dropdown
+2020-04-24 17:01:53 INFO  BillingLandingPage:212 - list of billing subtype is being fetched
+2020-04-24 17:01:53 INFO  BillingLandingPage:215 - search of subtype in the list is being done 
+2020-04-24 17:01:53 INFO  BillingLandingPage:222 - billing subtype matched with expected
+2020-04-24 17:01:54 INFO  BillingLandingPage:226 - billing subtype is being clicked 
+2020-04-24 17:01:57 INFO  BillingLandingPage:242 - providing value to subtype inputbox
+2020-04-24 17:02:00 INFO  BillingLandingPage:247 - clicking on billing details link
+2020-04-24 17:02:00 INFO  BillingLandingPage:252 - clicking cycle option
+2020-04-24 17:02:00 INFO  BillingLandingPage:254 - list of billing cycle is being fetched
+2020-04-24 17:02:00 INFO  BillingLandingPage:257 - looking expected billing cycle into list
+2020-04-24 17:02:00 INFO  BillingLandingPage:263 - expexted billing cycle found and is being clicked
+2020-04-24 17:02:04 INFO  BillingLandingPage:282 - billing paymentterm is being clicked
+2020-04-24 17:02:04 INFO  BillingLandingPage:284 - list of billing payment term is being fetched
+2020-04-24 17:02:04 INFO  BillingLandingPage:287 - looking expected billing payment term into list 
+2020-04-24 17:02:04 INFO  BillingLandingPage:293 - Expected billing payment term is found and is being clicked
+2020-04-24 17:02:07 INFO  BillingLandingPage:313 - providing value to BillingTurnOverAmt input field
+2020-04-24 17:02:10 INFO  BillingLandingPage:319 - clicking on BillingTodBasedOn dropdown
+2020-04-24 17:02:11 INFO  BillingLandingPage:321 - list of BillingTodBasedOnOption is being fetched
+2020-04-24 17:02:11 INFO  BillingLandingPage:324 - looking expected value into list
+2020-04-24 17:02:11 INFO  BillingLandingPage:330 - Expected is found and is being clicked
+2020-04-24 17:02:14 INFO  BillingLandingPage:349 - clicking on billing format dropdown
+2020-04-24 17:02:14 INFO  BillingLandingPage:351 - list of billing format is being fetched
+2020-04-24 17:02:14 INFO  BillingLandingPage:354 - looking expected billing format into list
+2020-04-24 17:02:14 INFO  BillingLandingPage:361 - found expected billing format and is being clicked
+2020-04-24 17:02:17 INFO  BillingLandingPage:379 - clicking billingby dropdown
+2020-04-24 17:02:18 INFO  BillingLandingPage:381 - list of billingby options is being  fetched
+2020-04-24 17:02:18 INFO  BillingLandingPage:384 - expected billingby option is being searched in list
+2020-04-24 17:02:18 INFO  BillingLandingPage:396 - expected option is not matched
+2020-04-24 17:02:18 INFO  BillingLandingPage:396 - expected option is not matched
+2020-04-24 17:02:18 INFO  BillingLandingPage:390 - found expected option and is being clicked
+2020-04-24 17:02:21 INFO  BillingLandingPage:35 - setting bill assign branch
+2020-04-24 17:02:28 INFO  BillingLandingPage:50 - setting submission branch
+2020-04-24 17:02:33 INFO  BillingLandingPage:59 - setting collection branch
+2020-04-24 17:02:38 INFO  BillingLandingPage:120 - Providing GSTIN value
+2020-04-24 17:02:44 INFO  BillingLandingPage:122 - providing minimum bill amount
+2020-04-24 17:02:48 INFO  BillingLandingPage:124 - providing TAN
+2020-04-24 17:02:53 INFO  BillingLandingPage:126 - providing e-bill emailid
+2020-04-24 17:02:58 INFO  BillingLandingPage:130 - communication emailid
+2020-04-24 17:03:03 INFO  BillingLandingPage:159 - clicking on billing GBcategory dropdown
+2020-04-24 17:03:04 INFO  BillingLandingPage:161 - list of GBcategory is being fetched
+2020-04-24 17:03:04 INFO  BillingLandingPage:164 - Expected GBcategory is searched in list
+2020-04-24 17:03:04 INFO  BillingLandingPage:171 - found expected GBcategory and is being clicked
+2020-04-24 17:03:04 INFO  BillingLandingPage:143 - BillingLandingPage:setBillingAddress method
+2020-04-24 17:03:04 INFO  BillingLandingPage:144 - clicking on plus to add addresses
+2020-04-24 17:03:04 INFO  BillingLandingPage:146 - providing first address
+2020-04-24 17:03:07 INFO  BillingLandingPage:148 - providing second address
+2020-04-24 17:03:11 INFO  BillingLandingPage:150 - providing third address
+2020-04-24 17:03:14 INFO  BillingLandingPage:152 - clicking on save button
+2020-04-24 17:03:14 INFO  BillingLandingPage:413 - clicking on Next button of billing page
+2020-04-24 17:03:53 INFO  UsercreationTest:108 - after method
+2020-04-24 17:04:38 INFO  ContractUpdatePage:12 - clicking on GeneralEdit button
+2020-04-24 17:04:43 INFO  UtilityClass:286 - string matched and as expected
+2020-04-24 17:04:51 INFO  UtilityClass:286 - string matched and as expected
+2020-04-24 17:04:59 INFO  UtilityClass:286 - string matched and as expected
+2020-04-24 17:05:03 INFO  UtilityClass:286 - string matched and as expected
+2020-04-24 17:05:03 INFO  BillingLandingPage:408 - validating sfxcode present on billing page
+2020-04-24 17:05:07 INFO  UtilityClass:286 - string matched and as expected
+2020-04-24 17:05:07 INFO  BillingLandingPage:413 - clicking on Next button of billing page
+2020-04-24 17:05:14 INFO  UtilityClass:286 - string matched and as expected
+2020-04-24 17:05:14 INFO  UsercreationTest:108 - after method
+2020-04-24 17:05:14 INFO  UsercreationTest:97 - after test
